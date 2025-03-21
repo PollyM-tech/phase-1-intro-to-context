@@ -96,7 +96,7 @@ function calculatePayroll(employeeRecords) {
 
 // Example to understand Polly's and Kylian's salaries better
 
-let totalWages = allWagesFor(employee);
+let totalWages = allWagesFor(employees);
 console.log(totalWages); 
 
 
